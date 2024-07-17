@@ -47,14 +47,9 @@ The training loop includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crop-prediction-pytorch.git
-   cd crop-prediction-pytorch
+   git clone https://github.com/swarajkumarsingh/linear-regression-basic.git ll_model
+   cd ll_model
    ```
-
-2. Install the required dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
 
 ## Usage
 
